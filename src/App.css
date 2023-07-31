@@ -14,22 +14,20 @@ h1 {
 
 /* header */
 header {
-  header {
-    height: 220px;
-    background-color: #3535ec;
-    border-radius: 0 0 20px 20px;
+  height: 220px;
+  background-color: #3535ec;
+  border-radius: 0 0 20px 20px;
 
-    position: sticky;
-    top: 0;
-    left: 0;
+  position: sticky;
+  top: 0;
+  left: 0;
 
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center 70px;
-    background-image: url('./assets/img/header-bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center 70px;
+  background-image: url('./assets/img/header-bg.png');
 
-    z-index: 1;
-  }
+  z-index: 1;
 }
 
 /* calendar */
