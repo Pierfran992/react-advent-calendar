@@ -14,14 +14,14 @@ const source = [
     "type": "image",
     "icon": "ico-neve",
     "title": "gremlins",
-    "url": "images/gremlins.gif"
+    "url": "img/gremlins.gif"
   },
   {
     "id": 1,
     "type": "image",
     "icon": "ico-albero",
     "title": "friends",
-    "url": "images/friends.gif"
+    "url": "img/friends.gif"
 
   },
   {
@@ -35,7 +35,7 @@ const source = [
     "type": "image",
     "icon": "ico-stella",
     "title": "home alone",
-    "url": "images/homealone.gif"
+    "url": "img/homealone.gif"
   },
   {
     "id": 4,
@@ -48,7 +48,7 @@ const source = [
     "type": "image",
     "icon": "ico-stella",
     "title": "Griffin",
-    "url": "images/griffin.gif"
+    "url": "img/griffin.gif"
   },
   {
     "id": 6,
@@ -67,7 +67,7 @@ const source = [
     "type": "image",
     "icon": "ico-calza",
     "title": "Skeleton",
-    "url": "images/skeleton.gif"
+    "url": "img/skeleton.gif"
   },
   {
     "id": 9,
@@ -98,7 +98,7 @@ const source = [
     "type": "image",
     "icon": "ico-stella",
     "title": "Nightmare Before Christmas",
-    "url": "images/nightmare.gif"
+    "url": "img/nightmare.gif"
   },
   {
     "id": 14,
@@ -111,7 +111,7 @@ const source = [
     "type": "image",
     "icon": "ico-calza",
     "title": "The Grinch",
-    "url": "images/grinch.gif"
+    "url": "img/grinch.gif"
   },
   {
     "id": 16,
@@ -142,21 +142,21 @@ const source = [
     "type": "image",
     "icon": "ico-caramella",
     "title": "Una poltrona per due",
-    "url": "images/poltrona.gif"
+    "url": "img/poltrona.gif"
   },
   {
     "id": 21,
     "type": "image",
     "icon": "ico-caramella",
     "title": "Spongebob",
-    "url": "images/spongebob.gif"
+    "url": "img/spongebob.gif"
   },
   {
     "id": 22,
     "type": "image",
     "icon": "ico-neve",
     "title": "Elf",
-    "url": "images/elf.gif"
+    "url": "img/elf.gif"
   },
   {
     "id": 23,
@@ -169,7 +169,7 @@ const source = [
     "type": "image",
     "icon": "ico-caramella",
     "title": "Carlton dancing",
-    "url": "images/dance.gif"
+    "url": "img/dance.gif"
   }
 ];
 
